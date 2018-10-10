@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://caffeinedisaster.netlify.com/* https://www.caffeinedisaster.com/:splat 301!
